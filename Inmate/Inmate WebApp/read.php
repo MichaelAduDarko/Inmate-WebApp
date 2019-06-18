@@ -6,7 +6,7 @@
         <style>
             .headColor
             {
-                background-color: #1f738e;
+                background-color: #3ca3c4;
             }
             
             

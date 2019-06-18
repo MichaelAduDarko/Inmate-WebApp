@@ -13,7 +13,7 @@
     .mt0 { margin-top: 0; }
     .headColor{
      
-        background-color: rgba(32, 166, 198, 0.49);
+        background-color: rgba(115, 200, 221, 0.49);
        
         
     }

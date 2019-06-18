@@ -87,7 +87,7 @@
                 <tr>
                     <td></td>
                     <td>
-                        <input type='submit' value='Save Changes' class='btn btn-primary' />
+                        <input type='submit' value='Save changes' class='btn btn-primary' />
                         <a href='index.php' class='btn btn-danger'>Back to Inmate Roster</a>
                     </td>
                 </tr>
